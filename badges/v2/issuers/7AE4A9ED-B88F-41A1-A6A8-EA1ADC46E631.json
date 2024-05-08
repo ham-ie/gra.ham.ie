@@ -1,0 +1,10 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "description": "Graham Hayes is a software developer and open source enthusiast. He was a member of the OpenStack Technical Committee and a core reviewer for the OpenStack Designate project. He currently works for Udemy as an Application and Infrastructure Architect.",
+    "email": "badges@gra.ham.ie",
+    "id": "https://gra.ham.ie/badges/v2/issuer/7AE4A9ED-B88F-41A1-A6A8-EA1ADC46E631.json",
+    "image": "https://gra.ham.ie/badges/v2/images/7AE4A9ED-B88F-41A1-A6A8-EA1ADC46E631.png",
+    "name": "Graham Hayes",
+    "type": "Issuer",
+    "url": "https://gra.ham.ie"
+}

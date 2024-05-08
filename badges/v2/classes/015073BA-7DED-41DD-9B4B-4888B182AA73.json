@@ -1,0 +1,25 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "alignment": [],
+    "criteria": {
+        "@context": "https://w3id.org/openbadges/v2",
+        "id": "https://gra.ham.ie/badging/FriendsOfGraham",
+        "narrative": "Graham issued this badge to his friends for being awesome."
+    },
+    "description": "Earners of Friends of Graham badges are friends of Graham. They are awesome.",
+    "id": "https://gra.ham.ie/badges/v2/classes/015073BA-7DED-41DD-9B4B-4888B182AA73.json",
+    "image": {
+        "@context": "https://w3id.org/openbadges/v2",
+        "id": "https://gra.ham.ie/badges/v2/images/classes-015073BA-7DED-41DD-9B4B-4888B182AA73.png"
+    },
+    "issuer": {
+        "@context": "https://w3id.org/openbadges/v2",
+        "id": "https://gra.ham.ie/badges/v2/issuer/7AE4A9ED-B88F-41A1-A6A8-EA1ADC46E631.json",
+    },
+    "name": "Friends of Graham",
+    "tags": [
+        "Graham",
+        "awesome"
+    ],
+    "type": "BadgeClass"
+}

@@ -1,0 +1,17 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "badge": "https://gra.ham.ie/badges/v2/classes/015073BA-7DED-41DD-9B4B-4888B182AA73.json",
+    "evidence": [],
+    "id": "https://gra.ham.ie/badges/v2/assertions/76934758-1140-4E32-83C3-DE5A37FB988D.json",
+    "issuedOn": "2024-02-16T13:25:23.000Z",
+    "expires": "2025-02-16T13:25:23.000Z",
+    "recipient": {
+        "hashed": true,
+        "identity": "sha256$862dac9b9c464d9be0d584446e2c6374258505fdac4f0352b06303f857ee14d1",
+        "type": "email"
+    },
+    "type": "Assertion",
+    "verification": {
+        "type": "hosted"
+    }
+}
