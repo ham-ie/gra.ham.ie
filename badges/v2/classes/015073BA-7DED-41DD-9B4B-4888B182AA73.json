@@ -14,7 +14,7 @@
     },
     "issuer": {
         "@context": "https://w3id.org/openbadges/v2",
-        "id": "https://gra.ham.ie/badges/v2/issuer/7AE4A9ED-B88F-41A1-A6A8-EA1ADC46E631.json",
+        "id": "https://gra.ham.ie/badges/v2/issuer/7AE4A9ED-B88F-41A1-A6A8-EA1ADC46E631.json"
     },
     "name": "Friends of Graham",
     "tags": [
